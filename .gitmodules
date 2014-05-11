@@ -1,0 +1,3 @@
+[submodule "ruby-install"]
+	path = ruby-install
+	url = https://github.com/postmodern/ruby-install.git
