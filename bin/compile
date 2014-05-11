@@ -1,6 +1,6 @@
 #!/bin/sh
 
-echo $PWD
-ls .
-ls ruby-install
+echo $0
+ls "${0%/*}/../ruby-install"
+
 exit 1
